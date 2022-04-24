@@ -1,0 +1,11 @@
+{
+  "swagger": {
+    "outputDirectory": "dist/",
+    "outputFormat": "OpenApi_3",
+    "entryFile": "src/**/*controller.ts",
+    "yaml": false,
+    "name": "CodingTest Service",
+    "description": "CodingTest Service",
+    "license": "ISC"
+  }
+}

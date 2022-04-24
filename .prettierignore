@@ -1,0 +1,17 @@
+.dockerignore
+.eslintignore
+.gitignore
+.prettierignore
+.npmrc
+.nycrc
+.env
+*.env
+.nyc_output
+.scannerwork
+coverage
+Dockerfile
+Jenkinsfile
+dist
+node_modules
+package-lock.json
+sonar-project.properties

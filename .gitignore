@@ -1,0 +1,26 @@
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+
+# Additional directories
+.nyc_output
+.scannerwork
+coverage
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist
+
+# Others
+.npmrc
+*.log
+*.txt
